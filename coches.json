@@ -1,0 +1,33 @@
+
+{
+    "_id": "681237d99264d04b7b8e4c7b",
+    "marca": "Ford",
+    "nombre": "Puma",
+    "imagen": "Imagen",
+    "añoFabricacion": 2010,
+    "añosActivo": 10,
+    "kilometraje": 95000,
+    "precio": "20.000€",
+    "fecha_publicacionj": "2025-02-12",
+
+    "vendedor": [
+        {"tipo": "particular"},
+        {"nombre": "Alexia Cubarsi"},
+        {"telefono": "+34 659875231"},
+        {"email": "Alexia@example.com"},
+        {"ubicacion": "Madrid"}
+    ],
+
+    "caracteristicas": [
+      {"cantidadPuertas": 5},
+      {"motorizacion":"Gasolina"},
+      {"traccionMecanica":"FWD"},
+      {"color": "blanco"}
+    ],
+
+    "estado": [
+        {"tecnico": "bueno"},
+        {"estetico": "muy bueno"},
+        {"itv_vigente": true}
+    ]
+  }
