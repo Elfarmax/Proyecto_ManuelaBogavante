@@ -1,0 +1,30 @@
+    {
+      "_id": "681238d7893b3a36a231779c",
+      "marca": "BMW",
+      "nombre": "M3",
+      "imagen": "http://placehold.it/32x32",
+      "añoFabricacion": 2019,
+      "añosActivo": 4,
+      "kilometraje": 40000,
+      "precio": "45.000€",
+      "fecha_publicacion": "2025-02-24",
+      "vendedor": [
+        {"tipo": "particular"},
+        {"nombre": "Lauro Pérez"},
+        {"telefono": "+34 600123456"},
+        {"email": "lauropz@example.com"},
+        {"ubicacion": "Barcelona, España"}
+    ],
+
+      "caracteristicas": [
+        {"cantidadPuertas": 5},
+        {"motorizacion": "Electrico"},
+        {"traccionMecanica": "RWD"},
+        {"color": "Rojo"}
+      ],
+      "estado": {
+            "tecnico": "bueno",
+            "estetico": "muy bueno",
+            "itv_vigente": true
+        }
+    }
