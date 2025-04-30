@@ -1,0 +1,11 @@
+{
+    "_id": 5687,
+    "tipo": "particular",
+    "nombre": "Alexia Cubarsi",
+    "telefono": "+34 659875231",
+    "email": "Alexia@example.com",
+    "ubicacion": "Madrid, Madrid",
+    "edad": 51,
+    "idioma": "Español",
+    "coches_en_venta":["681237d99264d04b7b8e4c7b"]
+}
