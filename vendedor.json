@@ -1,0 +1,11 @@
+{
+    "_id": 4567,
+    "tipo": "particular",
+    "nombre": "Lauro Pérez",
+    "telefono": "+34 600123456",
+    "email": "lauropz@example.com",
+    "ubicacion": "Barcelona, España",
+    "edad": 45,
+    "idioma": "Español",
+    "coches_en_venta": ["681238d7893b3a36a231779c"]
+}
