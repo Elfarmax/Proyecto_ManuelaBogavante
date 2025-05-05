@@ -1,0 +1,11 @@
+{
+    "_id": 1227,
+    "tipo": "particular",
+    "nombre": "Raula de las Rositas",
+    "telefono": "+34 623750105",
+    "email": "Raula@example.com",
+    "ubicacion": "Madrid, Madrid",
+    "edad": 88,
+    "idioma": "Español",
+    "coches_en_venta":["6415827d992454d04b7b9e4c7b"]
+}

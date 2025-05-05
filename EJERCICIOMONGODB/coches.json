@@ -1,0 +1,35 @@
+{
+    "_id": "6415827d992454d04b7b9e4c7b",
+    "marca": "Dacia",
+    "nombre": "Sandero",
+    "imagen": "Imagen",
+    "añoFabricacion": 2008,
+    "añosActivo": 17,
+    "kilometraje": 100000,
+    "precio": "15.000€",
+    "fecha_publicacion": "2025-02-12",
+
+
+    "vendedor": [
+        {"tipo": "particular"},
+        {"nombre": "Raula de las Rositas"},
+        {"telefono": "+34 623750105"},
+        {"email": "Raula@example.com"},
+        {"ubicacion": "Madrid"}
+    ],
+
+
+    "caracteristicas": [
+      {"cantidadPuertas": 5},
+      {"motorizacion":"Diesel"},
+      {"traccionMecanica":"FWD"},
+      {"color": "Negro"}
+    ],
+
+
+    "estado": [
+        {"tecnico": "bueno"},
+        {"estetico": "bueno"},
+        {"itv_vigente": true}
+    ]
+  }
